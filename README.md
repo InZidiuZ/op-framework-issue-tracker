@@ -17,31 +17,31 @@ From this point on, the goal is to move towards a pre-alpha state, which should 
 
 # bug-report-template
 
-**Reporter
+**Reporter:**
 Who is reporting this? Please include discord name.
 
-**Summary:
+**Summary:**
 Write a short summary of what you're experiencing.
 
-**Steps to Reproduce:
+**Steps to Reproduce:**
 Include what steps that are needed in order to reproduce the issue.
 
-**Expected Results:
+**Expected Results:**
 What are the expected results?
 
-**Actual Results:
+**Actual Results:**
 What are the actual results?
 
-## More Info
+###### More Info
 
-**Screenshots:
+**Screenshots:**
 If suitable, include some screenshots. You also *have* to include screenshots of your F8 console.
 
-**Game Resolution
+**Game Resolution:**
 What is your game's resolution?
 
-**Player Data
+**Player Data:**
 Write /info whilst ingame and provide the information you're given.
 
-**Notes
+**Notes:**
 For anything else noteworthy.
