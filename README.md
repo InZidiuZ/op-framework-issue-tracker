@@ -32,7 +32,7 @@ What are the expected results?
 **Actual Results:**
 What are the actual results?
 
-###### More Info
+## More Info
 
 **Screenshots:**
 If suitable, include some screenshots. You also *have* to include screenshots of your F8 console.
