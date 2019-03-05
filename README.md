@@ -45,3 +45,19 @@ Write /info whilst ingame and provide the information you're given.
 
 **Notes:**
 For anything else noteworthy.
+
+# suggestion-template
+
+[Here's](https://pastebin.com/6yyZ6ViR) a link to this on a pastebin.
+
+**Suggester:**
+Who is suggesting this? Please include discord name.
+
+**Summary:**
+Write a short summary of what your suggestion is about.
+
+**Reason:**
+Why would your suggestion be a good addition to Legacy?
+
+**Economy:**
+Will this have an effect on the server's economy. If so, in what way do you believe it will?
