@@ -1,4 +1,6 @@
 ---
+name: Legacy RP Bug Report Template
+about: This template is used when submitting bug reports
 title: 'Bug report'
 labels: bug
 assignees: InZidiuZ
