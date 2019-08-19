@@ -8,8 +8,9 @@ assignees: Anderzenn
 projects: "Legacy Phone"
 ---
 
-**Reporter:**
-Who is reporting this? Please include discord name and your steam profile. (Example: Anderzenn#0069 | https://steamcommunity.com/id/anderzenn)
+# Legacy Phone Bug Report
+**Reporter:** (Example: Anderzenn#0069 | https://steamcommunity.com/id/anderzenn)
+Who is reporting this? Please include discord name and your steam profile. 
 
 **Summary:**
 Write a short summary of what you're experiencing.
