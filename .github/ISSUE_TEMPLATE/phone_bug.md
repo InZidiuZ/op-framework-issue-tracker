@@ -4,7 +4,7 @@ about: NOTE THIS IS FOR LEGACYS CUSTOM PHONE, NOT GCPHONE When filing a bug repo
 title: '[Phone Bug] GIVE ME A TITLE'
 labels: bug, phone
 assignees: Anderzenn
-projects: 1
+projects: "Legacy Phone"
 ---
 
 **Reporter:**
