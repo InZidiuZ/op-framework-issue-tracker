@@ -4,8 +4,10 @@ about: When suggesting, take into account how it effects RP as well as the econo
 title: '[Phone Suggestion] GIVE ME A TITLE'
 labels: enhancement, phone
 assignees: Anderzenn
+projects: "Legacy Phone"
 ---
 
+# Legacy Phone Suggestion
 **Name:**
 Who is suggesting this? Please include discord name.
 
