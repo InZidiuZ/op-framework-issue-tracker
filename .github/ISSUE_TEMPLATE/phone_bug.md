@@ -1,8 +1,9 @@
 ---
 name: Phone Bug Report
-about: When filing a bug report make sure to fill in all information as detailed as you possibly can.
+about: **NOTE THIS IS FOR LEGACYS CUSTOM PHONE, NOT GCPHONE** When filing a bug report make sure to fill in all information as detailed as you possibly can.
 title: '[Phone Bug] GIVE ME A TITLE'
 labels: bug, phone
+assignees: Anderzenn
 ---
 
 **Reporter:**
