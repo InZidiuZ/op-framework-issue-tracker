@@ -1,14 +1,13 @@
 ---
-name: Phone Bug Report
-about: "**NOTE THIS IS FOR LEGACYS CUSTOM PHONE, NOT GCPHONE**
+name: UI Bug Report
+about: "**NOTE THIS IS ONLY FOR BUGS REGARDING THE UIS**
 When filing a bug report make sure to fill in all information as detailed as you possibly can."
-title: '[Phone Bug] GIVE ME A TITLE'
-labels: bug, phone
+title: '[UI Bug] GIVE ME A TITLE'
+labels: bug, ui
 assignees: Anderzenn
-projects: "Legacy Phone"
 ---
 
-# Legacy Phone Bug Report
+# Legacy UI Bug Report
 **Reporter:** (Example: Anderzenn#0069 | https://steamcommunity.com/id/anderzenn)
 Who is reporting this? Please include discord name and your steam profile. 
 
