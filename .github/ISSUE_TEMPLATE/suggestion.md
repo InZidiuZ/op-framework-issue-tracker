@@ -2,7 +2,7 @@
 name: Suggestion
 about: When suggesting, take into account how it effects RP as well as the economy, and be as detailed as possible.
 title: 'Suggestion'
-labels: enhancement
+labels: suggestion
 ---
 
 **Name:**
