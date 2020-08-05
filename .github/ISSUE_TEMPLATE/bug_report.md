@@ -5,14 +5,17 @@ title: 'Bug report'
 labels: bug
 ---
 
-**Reporter:**
-Who is reporting this? Please include discord name and your steam profile.
+**Assurance:**
+Have you read through the rules from the `README.md` file in the root folder of this GitHub repository?
+
+**Player Identification:**
+What is your steam profile?
 
 **Summary:**
-Write a short summary of what you're experiencing.
+Write a short summary of what you are experiencing.
 
 **Steps to Reproduce:**
-Include what steps that are needed in order to reproduce the issue.
+Include what steps that are needed in order to reproduce this issue.
 
 **Expected Results:**
 What are the expected results?
@@ -23,16 +26,16 @@ What are the actual results?
 ## Additional Information
 
 **Screenshots:**
-If suitable, include some screenshots. You also *have* to include screenshots of your F8 console.
+If suitable, include some screenshots.
 
 **Game Resolution:**
 What is your game's resolution?
 
 **Player Data:**
-Write /info whilst ingame and provide the information you're given.
+Write '/info' whilst in-game and provide a screenshot of the information you are prompted.
 
 **Server:**
-What server/community are you from? Main, India, Bangladesh, etc.
+What server/community did this issue occur in?
 
 **Notes:**
 For anything else noteworthy.

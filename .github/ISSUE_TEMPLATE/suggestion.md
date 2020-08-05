@@ -1,15 +1,15 @@
 ---
 name: Suggestion
-about: When suggesting, take into account how it effects RP as well as the economy, and be as detailed as possible.
+about: When creating a suggestion, consider how it effects RP and the economy.
 title: 'Suggestion'
 labels: suggestion
 ---
 
-**Name:**
-Who is suggesting this? Please include discord name.
+**Assurance:**
+Have you read through the rules from the `README.md` file in the root folder of this GitHub repository?
 
 **Summary:**
-Write a short summary of what your suggestion is about.
+Write a summary of what your suggestion is about.
 
 **Reason:**
-Why would your suggestion be a good addition to Legacy?
+Why would your suggestion be a good change to the framework?
