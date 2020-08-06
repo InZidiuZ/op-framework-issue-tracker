@@ -8,7 +8,7 @@ For more information, join the official [OP-FW discord guild](https://discord.gg
 ## Issues
 It is requested that you report any issues you may encounter with the OP Framework in the "Issues" tab in this GitHub repository.
 
-Issues related to assets, should at this time be reported in [this](https://github.com/InZidiuZ/legacy-assets-issue-tracker/issues) GitHub repository.
+Issues related to assets, should at this time be reported in [this](https://github.com/InZidiuZ/legacy-assets-issue-tracker) GitHub repository.
 
 ## Rules
 To make sure we're all on the same page about what this issue tracker is meant for, please read through and follow the rules below.
