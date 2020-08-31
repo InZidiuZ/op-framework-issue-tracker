@@ -21,5 +21,5 @@ To make sure we're all on the same page about what this issue tracker is meant f
 **§ 6.** The framework is meant to be easily scalable and future proof, meaning creating issues to request a 'turf' and 'storage container' for your gang should not be done. Be more creative and propose something that *is* scalable and dynamic.<br/>
 **§ 7.** Don't create an issue on a topic that already has an issue open. **Always use the search function before creating an issue!** Instead, use the already existing issue to add onto the topic.<br/>
 **§ 8.** Engaging in the comment section of issues is encouraged, though please **do not** post comments without any value, i.e. "+1" comments. Use GitHub's reaction feature for such instead.<br/>
-**§ 9.** Issues should be associated with the framework's continued development.
+**§ 9.** Issues should be associated with the framework's continued development.<br/>
 **§ 10.** Don't hijack other people's issues.
