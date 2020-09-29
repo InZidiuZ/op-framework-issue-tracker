@@ -23,3 +23,4 @@ To make sure we're all on the same page about what this issue tracker is meant f
 **§ 8.** Engaging in the comment section of issues is encouraged, though please **do not** post comments without any value, i.e. "+1" comments. Use GitHub's reaction feature for such instead.<br/>
 **§ 9.** Issues should be associated with the framework's continued development.<br/>
 **§ 10.** Don't hijack other people's issues.
+**§ 11.** Only include one topic per issue. Creating multiple issues for multiple bugs/suggestions is not disallowed nor discouraged.
