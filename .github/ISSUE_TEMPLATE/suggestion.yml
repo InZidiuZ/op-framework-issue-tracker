@@ -1,0 +1,31 @@
+name: Suggestion
+description: When creating a suggestion, consider how it effects RP and the economy.
+labels: ["suggestion"]
+title: "Suggestion - "
+body:
+  - type: markdown
+    attributes:
+      value: "Before opening a new issue, please search existing issues:  https://github.com/InZidiuZ/op-framework-issue-tracker/issues"
+  - type: dropdown
+    id: assurance
+    attributes:
+      label: Assurance
+      description: Have you read through the rules from the `README.md` file in the root folder of this GitHub repository?
+      options:
+        - I have read the `README.md`
+    validations:
+      required: true         
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Write a summary of what your suggestion is about.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Why would your suggestion be a good change to the framework?
+    validations:
+      required: true
