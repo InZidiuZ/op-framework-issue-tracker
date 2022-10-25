@@ -1,7 +1,7 @@
-name: Bug Report
-description: A bug has been found in OPFW
-labels: ["bug"]
-title: "Bug report - "
+name: Suggestion
+description: When creating a suggestion, consider how it effects RP and the economy.
+labels: ["suggestion"]
+title: "Suggestion - "
 body:
   - type: markdown
     attributes:
