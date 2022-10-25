@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Legacy Assets Issue Tracker
+    url: https://github.com/InZidiuZ/legacy-assets-issue-tracker
+    about: If your Issue/Suggestion relates to assets (Such as clothing, cars, etc), please raise it here.
+  - name: OPFW Discord
+    url: https://discord.gg/opfw
+    about: Join us on discord to discuss issues, ideas, etc.
