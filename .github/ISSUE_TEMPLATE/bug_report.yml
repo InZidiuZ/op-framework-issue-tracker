@@ -1,0 +1,89 @@
+name: OPFW Bug Report
+description: A bug has been found in OPFW
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Before opening a new issue, please search existing issues:  https://github.com/InZidiuZ/op-framework-issue-tracker/issues"
+  - type: checkboxes
+    id: assurance
+    attributes:
+      label: Assurance
+      description: Provide a clear and concise description of what the problem is.
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+  - type: input
+    id: playerid
+    attributes:
+      label: Player Identification
+      description: What is your steam profile?
+    validations:
+      required: true          
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Write a short summary of what you are experiencing.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Include what steps that are needed in order to reproduce this issue.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What are the expected results?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Results
+      description: What are the actual results?
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots/Videos
+      description: Provide any screenshots and/or videos demonstrating the issue being experienced.
+    validations:
+      required: false
+  - type: textarea
+    id: game
+    attributes:
+      label: Game Resolution
+      description: What is your games resolution?
+    validations:
+      required: false
+  - type: textarea
+      id: data
+      attributes:
+        label: Player Data
+        description: Write '/info' whilst in-game and provide a screenshot of the information you are prompted.
+      validations:
+        required: false      
+  - type: textarea
+      id: server
+      attributes:
+        label: Server
+        description: What server/community did this issue occur in?
+        options:
+        - label: OP-FW Test Server (c2s1.op-framework.com)
+        - label: International (c3s1.op-framework.com)
+        - label: Latin America (c4s1.op-framework.com)
+        - label: Italy (c5s1.op-framework.com)
+        - label: Poland (c6s1.op-framework.com)
+        - label: India (c8s1.op-framework.com)
+        - label: Bangladesh (c10s1.op-framework.com)
+        - label: Nepal (c13s1.op-framework.com)
+        - label: South Korea (c15s1.op-framework.com)
+        - label: Estonia (c16s1.op-framework.com)
+      validations:
+        required: true          
