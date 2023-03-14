@@ -18,9 +18,9 @@ body:
   - type: input
     id: playerid
     attributes:
-      label: Player Identification
-      description: What is your steam profile?
-      placeholder: steam:123456789abcde
+      label: Discord Name
+      description: What is your Discord Name?
+      placeholder: BenIsCool#1234
     validations:
       required: true          
   - type: textarea
