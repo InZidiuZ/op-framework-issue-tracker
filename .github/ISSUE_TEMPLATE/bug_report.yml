@@ -16,11 +16,11 @@ body:
     validations:
       required: true
   - type: input
-    id: playerid
+    id: reporter
     attributes:
-      label: Player Identification
-      description: What is your steam profile?
-      placeholder: steam:123456789abcde
+      label: Reporter
+      description: Who is reporting this? Please include discord name.
+      placeholder: John (John#0001)
     validations:
       required: true          
   - type: textarea
