@@ -5,4 +5,7 @@ contact_links:
     about: If your Issue/Suggestion relates to assets (Such as clothing, cars, etc), please raise it here.
   - name: OPFW Discord
     url: https://discord.gg/opfw
-    about: Join us on discord to discuss issues, ideas, etc.
+    about: Join us on discord to discuss issues, ideas, etc.  
+  - name: Script/Asset Explanation
+    url: https://github.com/InZidiuZ/op-framework-issue-tracker/blob/master/README.md#whats-the-difference-between-script-and-asset-issues
+    about: Unsure if your issue is script or asset related? Read this explanation.
