@@ -6,6 +6,9 @@ body:
   - type: markdown
     attributes:
       value: "Before opening a new issue, please search existing issues:  https://github.com/InZidiuZ/op-framework-issue-tracker/issues"
+  - type: markdown
+    attributes:
+      value: "Are you sure your suggestion is **script** related? If you are unsure, read [this explanation](https://github.com/InZidiuZ/op-framework-issue-tracker/blob/master/README.md#whats-the-difference-between-script-and-asset-issues)."
   - type: dropdown
     id: assurance
     attributes:
