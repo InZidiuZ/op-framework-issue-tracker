@@ -82,15 +82,18 @@ body:
       description: What server/community did this issue occur in?
       multiple: true
       options:
-      - OP-FW Test Server (c2s1.op-framework.com)
-      - International (c3s1.op-framework.com)
-      - Latin America (c4s1.op-framework.com)
-      - Italy (c5s1.op-framework.com)
-      - Poland (c6s1.op-framework.com)
-      - India (c8s1.op-framework.com)
-      - Bangladesh (c10s1.op-framework.com)
-      - Nepal (c13s1.op-framework.com)
-      - South Korea (c15s1.op-framework.com)
-      - Estonia (c16s1.op-framework.com)
+      - OP-FW Test Server (c2)
+      - International (c3)
+      - Latin America (c4)
+      - Italy (c5)
+      - Poland (c6)
+      - Pakistan (c7)
+      - India (c8/c9)
+      - Bangladesh (c10)
+      - Nepal (c13)
+      - South Korea (c15)
+      - Estonia (c16)
+      - Mexico (c25)
+      - Other OP-FW server
     validations:
       required: true          
